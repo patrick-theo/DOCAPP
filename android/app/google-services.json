@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66848153918",
+    "firebase_url": "https://d-com-409f5.firebaseio.com",
+    "project_id": "d-com-409f5",
+    "storage_bucket": "d-com-409f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66848153918:android:5ef68c37203127fe498c6f",
+        "android_client_info": {
+          "package_name": "com.vareitex.Dcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66848153918-4embmsaklr0f833rd0gf6dr51av88qih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3CtUxiMU6fQRj-hkKT-1sST-4VmJoBgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66848153918-4embmsaklr0f833rd0gf6dr51av88qih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
